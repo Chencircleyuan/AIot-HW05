@@ -1,7 +1,7 @@
 # AIot-HW05
-##Lecture 14: IoT Flask Web (github, vs code)
+//Lecture 14: IoT Flask Web (github, vs code)
 
-###Step 1 : Development Environment Setup
+//Step 1 : Development Environment Setup
 
 Please install vs code, register github, install git for windows
 
